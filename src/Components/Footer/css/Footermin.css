@@ -1,0 +1,27 @@
+@media (max-width:1200px) {
+    .amod{
+        background-color: rgba(203,184,168,1);
+        margin-top: 3rem;
+        /* display: grid;
+        place-content: center; */
+        display: flex;
+        place-content: center;
+        align-items: center;
+        flex-direction: column;
+    
+    }
+    
+    footer a{
+        color: black;
+        text-decoration: none;
+    }
+    footer a:hover{
+        color: #333;
+        text-decoration: underline;
+    }
+    footer ul{
+        list-style: none;
+    
+    }
+    
+}

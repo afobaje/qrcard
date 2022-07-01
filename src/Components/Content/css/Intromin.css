@@ -1,0 +1,31 @@
+@media (max-width:1200px) {
+    .intro{
+        margin-top: 3rem;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        width: 90%;
+        margin-right: auto;
+        margin-left: auto;
+    }
+    .intro div{
+        width:70%;
+        padding: 1rem;
+        text-align: center;
+        border-radius: 30px;
+        height: auto;
+        margin-top: 2rem;
+        line-height: 2rem;
+    }
+    .one{
+        background-color: rgb(246, 239, 231);
+    }
+
+    .two{
+        background-color: rgba(225, 251, 255, 0.801);
+    }
+    .three{
+        background-color: rgb(255, 181, 194);
+    }
+}

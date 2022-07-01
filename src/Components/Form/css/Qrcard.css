@@ -1,0 +1,38 @@
+.qr{
+    display: flex;
+    justify-content: space-evenly;
+    /* flex-direction: column; */
+    align-items: center;
+    /* margin: auto; */
+    margin-left: 3rem;
+}
+.congrat{
+    text-align: center;
+}
+.timz{
+    display: flex;
+     flex-direction: column;
+}
+
+.gbese{
+    list-style: none;
+}
+.gbese li{
+    margin-top: .5rem;
+}
+.result{
+    display: flex;
+    background-color: rgba(240, 234, 234, 0.861);
+    border-radius: 15px;
+    width: 500px;
+    justify-content: space-evenly;
+    height: 250px;
+    margin: auto;
+   
+}
+.result img{
+    align-self: center;
+    object-fit: cover;
+    height: 100px;
+    width: 100px;
+}

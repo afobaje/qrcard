@@ -1,0 +1,128 @@
+.vor {
+  display: flex;
+  width: 90%;
+  justify-content: center;
+  margin: auto;
+  height: 40rem;
+  box-shadow: 2px 2px 4px 2px rgb(233, 227, 227);
+}
+.dam {
+  width: 100%;
+  opacity: 0.7;
+  height: 100%;
+  background-color: #333;
+}
+.imsd {
+  width: 50%;
+  background-position: 50% 50%;
+  background-size: cover;
+  background-image: url("../../assets/tyler-nix-2Ioe2O18_-4-unsplash.jpg");
+}
+.formik {
+  width: 50%;
+}
+.formik {
+  display: flex;
+  justify-content: center;
+  margin-top: 3rem;
+  align-items: center;
+  flex-direction: column;
+}
+.ali {
+  /* text-align: center; */
+  display: flex;
+  flex-direction: column;
+}
+.werp {
+  display: flex;
+  gap: 1rem;
+  margin-top: 0.7rem;
+}
+.occi {
+  margin-top: 0.7rem;
+  width: 90%;
+  flex-direction: column;
+  display: flex;
+  /* justify-content: center; */
+  /* align-items: center; */
+}
+.jahdiel {
+  display: flex;
+  width: 45%;
+  flex-direction: column;
+}
+.ali label {
+  margin-left: 0.5rem;
+}
+.dsdi {
+  margin-top: 1rem;
+  width: 35%;
+  height: 3rem;
+  background-color: rgb(233, 193, 200);
+  border: 1px solid rgb(233,193,200);
+  cursor: pointer;
+  align-self: center;
+}
+.ali input {
+  padding-left: 1rem;
+  height: 2.5rem;
+  border: 1px solid #333;
+  /* border-color:red; */
+  margin-top: 0.4rem;
+  border-radius: 15px;
+}
+/* .formik{
+        display: flex;
+        flex-direction: column;
+        width: 80%;
+        justify-content: center;
+        margin: 0 auto;
+        align-items: center;
+     }
+     form{
+        flex-direction: column;
+    
+        box-shadow: 0px 1px 1px 2px #f1eaea;
+        border-radius: 15px;
+        width: 100%;
+        padding: 1rem;
+        display: flex;
+     }
+     .jahdiel{
+        display: flex;
+        justify-content: space-between;
+        flex-direction: column;
+        margin-top: 1rem;
+     }
+     .werp{
+        display: flex;
+        width: 95%;
+        column-gap: 2rem;
+     }
+     .werp input{
+        width: 95%;
+     }
+     label{
+        margin-bottom: .5rem;
+        margin-left: .5rem;
+     }
+     form input{
+        border-radius: 15px;
+        height: 1.8rem;
+        padding-left: .5rem;
+        outline: none;
+        border: 1px solid black;
+        border-color: black;
+     }
+     form button{
+        margin-top: 1rem;
+        width: 40%;
+        outline: none;
+         
+        align-self: center;
+        background-color: rgb(139, 224, 241);
+        border: 1px solid rgb(139, 224, 241);
+        color: black;
+
+        padding: .5rem;
+     } */
